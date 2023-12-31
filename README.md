@@ -9,9 +9,10 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+#### laptop version
 
 ![image](https://github.com/NawalMalki/Challenge5/assets/114352448/a15fabbf-70c0-4aac-b033-638eaad11ce9)
-
+#### mobile version
 
 ![image](https://github.com/NawalMalki/Challenge5/assets/114352448/06206d12-863e-403e-bc7c-98ec931c0f7b)
 
