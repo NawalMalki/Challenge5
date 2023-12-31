@@ -1,22 +1,6 @@
-# Frontend Mentor - Order summary card solution
+# Order summary card
 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-
-  - [Built with](#built-with)
-
-
-- [Author](#author)
-
-
-
-
-## Overview
 
 ### The challenge
 
@@ -39,7 +23,7 @@ Users should be able to:
 
 - Live Site URL: [Here](https://challenge5-ten.vercel.app/)
 
-## My process
+
 
 ### Built with
 
